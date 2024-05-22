@@ -4,8 +4,8 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-tutorato-informatica-per-aereospaziali
 venue: "University 1, Department"
-date: 2024
-location: "Milan, Italia"
+date: 2024-01-01
+location: "Milan, Italy"
 ---
 
 

@@ -1,0 +1,30 @@
+---
+title: "Informatica per Aereospaziali - tutorato"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2024-tutorato-informatica-per-aereospaziali
+venue: "University 1, Department"
+date: 2024
+location: "Milan, Italia"
+---
+
+
+04/6 - Ripasso teoria - 14:00-18:00
+======
+http://politecnicomilano.webex.com/meet/massimo.fioravanti
+
+11/6 - Ripasso teoria - 14:00-18:00
+======
+http://politecnicomilano.webex.com/meet/massimo.fioravanti
+
+18/6 - Temi d'esame - 14:00-18:00
+======
+http://politecnicomilano.webex.com/meet/massimo.fioravanti
+
+11/7 - Temi d'esame - 14:00-18:00
+======
+http://politecnicomilano.webex.com/meet/massimo.fioravanti
+
+02/9 - Temi d'esame - 14:00-18:00
+======
+http://politecnicomilano.webex.com/meet/massimo.fioravanti

@@ -15,7 +15,9 @@ location: "Milan, Italy"
 * Complemento a 2
 * Virgola Mobile
 * C, array, strighe, interi, float
-http://politecnicomilano.webex.com/meet/massimo.fioravanti
+
+registrazione:
+https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/dfbae758c42a41de9bd916a5ad7f1149/playback
 
 11/6 - Ripasso teoria - 14:00-18:00
 ======

@@ -26,11 +26,15 @@ https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/d
 * File
 * Parametri
 * Memoria dinamica
+
+registrazione:
 https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=de3afadc96c52bd4ff1c799b942fbb46
 
 18/6 - Temi d'esame - 14:00-18:00
 ======
-http://politecnicomilano.webex.com/meet/massimo.fioravanti
+
+registrazione:
+https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/75084443faf044558a2a011aa5cef902/playback
 
 11/7 - Temi d'esame - 14:00-18:00
 ======
